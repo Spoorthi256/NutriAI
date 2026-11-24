@@ -1,0 +1,174 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+@layer base {
+  * {
+    @apply border-surface-border;
+  }
+  
+  html, body {
+    background-color: #F8FAF9 !important;
+    color: #17231C !important;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  html, body {
+    background-color: #F8FAF9 !important;
+    color: #17231C !important;
+    color-scheme: light !important;
+  }
+}
+
+/* Custom sleek scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(47, 125, 74, 0.18);
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(47, 125, 74, 0.35);
+}
+
+/* Background mesh & soft green health-tech glow */
+.bg-mesh-glow {
+  background-image: 
+    radial-gradient(at 0% 0%, rgba(79, 157, 105, 0.06) 0px, transparent 50%),
+    radial-gradient(at 100% 0%, rgba(209, 232, 217, 0.12) 0px, transparent 50%),
+    radial-gradient(at 50% 100%, rgba(241, 247, 243, 0.6) 0px, transparent 50%);
+}
+
+.subtle-glass {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid #E3E9E5;
+}
+
+.subtle-glass-hover {
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.subtle-glass-hover:hover {
+  background: #F1F7F3;
+  border-color: #C7D8CD;
+}
+
+.gradient-text-emerald {
+  color: #1F6339;
+}
+
+.gradient-text-subtle {
+  color: #344139;
+}
+
+/* Rich Markdown Content Styling for NutriAI */
+.markdown-content {
+  color: #1F3A30;
+}
+
+.markdown-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  border-radius: 12px;
+  overflow: hidden;
+  border: 1px solid #D5E1D8;
+  background-color: #FFFFFF;
+}
+
+.markdown-content th {
+  background-color: #E2ECE5;
+  color: #1F3A30;
+  font-weight: 700;
+  padding: 0.65rem 0.85rem;
+  text-align: left;
+  border: 1px solid #D5E1D8;
+  font-size: 0.8rem;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+.markdown-content td {
+  padding: 0.6rem 0.85rem;
+  border: 1px solid #E8EFEA;
+  color: #2D473C;
+  font-size: 0.82rem;
+}
+
+.markdown-content tr:nth-child(even) td {
+  background-color: #F8FAF9;
+}
+
+.markdown-content h1,
+.markdown-content h2,
+.markdown-content h3 {
+  font-weight: 800;
+  color: #1F3A30;
+  margin-top: 1rem;
+  margin-bottom: 0.4rem;
+  letter-spacing: -0.02em;
+}
+
+.markdown-content h1 {
+  font-size: 1.25rem;
+}
+
+.markdown-content h2 {
+  font-size: 1.1rem;
+  border-bottom: 1px solid #D5E1D8;
+  padding-bottom: 0.3rem;
+}
+
+.markdown-content h3 {
+  font-size: 0.95rem;
+}
+
+.markdown-content p {
+  margin-bottom: 0.6rem;
+  line-height: 1.6;
+}
+
+.markdown-content ul {
+  list-style-type: disc;
+  padding-left: 1.25rem;
+  margin: 0.5rem 0;
+}
+
+.markdown-content ol {
+  list-style-type: decimal;
+  padding-left: 1.25rem;
+  margin: 0.5rem 0;
+}
+
+.markdown-content li {
+  margin-bottom: 0.25rem;
+  line-height: 1.5;
+}
+
+.markdown-content hr {
+  border: none;
+  border-top: 1px solid #D5E1D8;
+  margin: 1.2rem 0;
+}
+
+.markdown-content strong {
+  font-weight: 700;
+  color: #162B23;
+}
+

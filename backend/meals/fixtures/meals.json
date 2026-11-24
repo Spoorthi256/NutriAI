@@ -1,0 +1,1353 @@
+[
+  {
+    "id": "b-01",
+    "name": "Avocado & Chia Seed Sourdough Toast with Egg Whites",
+    "category": "breakfast",
+    "mealType": "Toast & Eggs",
+    "dietTypes": [
+      "vegetarian",
+      "mediterranean"
+    ],
+    "ingredients": [
+      "Sourdough Bread",
+      "Avocado",
+      "Egg Whites",
+      "Chia Seeds",
+      "Microgreens"
+    ],
+    "calories": 520,
+    "protein": 34,
+    "carbs": 48,
+    "fat": 18,
+    "fiber": 9,
+    "allergens": [
+      "Gluten",
+      "Eggs"
+    ],
+    "tags": [
+      "High Protein",
+      "Healthy Fats",
+      "Heart Healthy"
+    ],
+    "prepTime": "12 mins",
+    "description": "Toasted artisanal sourdough topped with seasoned smashed ripe avocado, organic chia seeds, and fluffy poached pasture-raised egg whites."
+  },
+  {
+    "id": "b-02",
+    "name": "Steel-Cut Cinnamon Oats with Whey Isolate & Blueberries",
+    "category": "breakfast",
+    "mealType": "Oatmeal Porridge",
+    "dietTypes": [
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Steel-Cut Oats",
+      "Whey Protein Isolate",
+      "Ceylon Cinnamon",
+      "Blueberries",
+      "Flaxseed"
+    ],
+    "calories": 490,
+    "protein": 36,
+    "carbs": 62,
+    "fat": 11,
+    "fiber": 8,
+    "allergens": [
+      "Dairy",
+      "Gluten"
+    ],
+    "tags": [
+      "Sustained Energy",
+      "High Fiber",
+      "Post-Workout"
+    ],
+    "prepTime": "10 mins",
+    "description": "Slow-simmered steel-cut oats stirred with vanilla whey protein isolate, antioxidant-rich wild blueberries, and fresh ground flaxseed."
+  },
+  {
+    "id": "b-03",
+    "name": "Tofu & Turmeric Breakfast Scramble with Sourdough",
+    "category": "breakfast",
+    "mealType": "Scramble",
+    "dietTypes": [
+      "vegan",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Organic Firm Tofu",
+      "Baby Spinach",
+      "Cherry Tomatoes",
+      "Turmeric",
+      "Nutritional Yeast",
+      "Sourdough"
+    ],
+    "calories": 460,
+    "protein": 32,
+    "carbs": 46,
+    "fat": 15,
+    "fiber": 7,
+    "allergens": [
+      "Soy",
+      "Gluten"
+    ],
+    "tags": [
+      "100% Plant Based",
+      "Anti-Inflammatory",
+      "Clean Fuel"
+    ],
+    "prepTime": "12 mins",
+    "description": "Crumbled organic tofu pan-seared with turmeric, baby spinach, cherry tomatoes, and vitamin-packed nutritional yeast."
+  },
+  {
+    "id": "b-04",
+    "name": "Overnight Vanilla Chia Seed Pudding with Raspberries",
+    "category": "breakfast",
+    "mealType": "Pudding",
+    "dietTypes": [
+      "vegan",
+      "vegetarian",
+      "keto",
+      "mediterranean"
+    ],
+    "ingredients": [
+      "Chia Seeds",
+      "Almond Milk",
+      "Plant Protein Powder",
+      "Fresh Raspberries",
+      "Pumpkin Seeds"
+    ],
+    "calories": 430,
+    "protein": 30,
+    "carbs": 38,
+    "fat": 16,
+    "fiber": 14,
+    "allergens": [
+      "Tree Nuts"
+    ],
+    "tags": [
+      "Superfood",
+      "High Fiber",
+      "Gluten Free"
+    ],
+    "prepTime": "5 mins",
+    "description": "Cold-steeped organic chia seeds in unsweetened almond milk paired with vanilla plant protein, raspberries, and crunchy pumpkin seeds."
+  },
+  {
+    "id": "b-05",
+    "name": "Whole Grain Flax & Berry Protein Pancakes",
+    "category": "breakfast",
+    "mealType": "Pancakes",
+    "dietTypes": [
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Whole Wheat Flour",
+      "Ground Flax",
+      "Egg Whites",
+      "Wild Berries",
+      "Pure Maple Drizzle"
+    ],
+    "calories": 540,
+    "protein": 35,
+    "carbs": 65,
+    "fat": 14,
+    "fiber": 8,
+    "allergens": [
+      "Gluten",
+      "Eggs"
+    ],
+    "tags": [
+      "Refuel",
+      "High Carb",
+      "Weekend Breakfast"
+    ],
+    "prepTime": "18 mins",
+    "description": "Fluffy whole-grain oat and flax pancakes served with warm simmered wild blackberries and pure maple drizzle."
+  },
+  {
+    "id": "b-06",
+    "name": "Smoked Salmon & Poached Egg Protein Breakfast Bowl",
+    "category": "breakfast",
+    "mealType": "Salmon Bowl",
+    "dietTypes": [
+      "non_vegetarian",
+      "mediterranean",
+      "keto"
+    ],
+    "ingredients": [
+      "Smoked Wild Salmon",
+      "Pasture Eggs",
+      "Avocado",
+      "Arugula",
+      "Capers",
+      "Olive Oil"
+    ],
+    "calories": 510,
+    "protein": 38,
+    "carbs": 12,
+    "fat": 32,
+    "fiber": 5,
+    "allergens": [
+      "Fish",
+      "Eggs"
+    ],
+    "tags": [
+      "Omega-3 Rich",
+      "Keto Friendly",
+      "Brain Fuel"
+    ],
+    "prepTime": "10 mins",
+    "description": "Thinly sliced wild Alaskan smoked salmon served alongside soft poached eggs, fresh avocado slices, and baby arugula."
+  },
+  {
+    "id": "b-07",
+    "name": "Greek Yogurt Superfruit Parfait with Walnuts",
+    "category": "breakfast",
+    "mealType": "Yogurt Bowl",
+    "dietTypes": [
+      "vegetarian",
+      "mediterranean"
+    ],
+    "ingredients": [
+      "0% Plain Greek Yogurt",
+      "English Walnuts",
+      "Raw Honey",
+      "Pomegranate Arils",
+      "Hemp Hearts"
+    ],
+    "calories": 450,
+    "protein": 38,
+    "carbs": 42,
+    "fat": 14,
+    "fiber": 6,
+    "allergens": [
+      "Dairy",
+      "Tree Nuts"
+    ],
+    "tags": [
+      "Gut Friendly",
+      "Probiotic",
+      "Quick Prep"
+    ],
+    "prepTime": "5 mins",
+    "description": "Thick strained Greek yogurt layered with crushed raw walnuts, ruby pomegranate seeds, raw honey, and protein-dense hemp seeds."
+  },
+  {
+    "id": "b-08",
+    "name": "Spiced Besan Cheela (Savory Chickpea Crepes)",
+    "category": "breakfast",
+    "mealType": "Crepes",
+    "dietTypes": [
+      "vegan",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Chickpea Flour (Besan)",
+      "Grated Carrots",
+      "Onions",
+      "Coriander",
+      "Mint Chutney"
+    ],
+    "calories": 440,
+    "protein": 26,
+    "carbs": 58,
+    "fat": 10,
+    "fiber": 10,
+    "allergens": [],
+    "tags": [
+      "Nut Free",
+      "Gluten Free",
+      "Traditional Health"
+    ],
+    "prepTime": "15 mins",
+    "description": "Crispy savory golden chickpea crepes infused with cumin, diced veggies, and herbs, served with homemade mint coriander chutney."
+  },
+  {
+    "id": "b-09",
+    "name": "Grilled Chicken & Egg White Power Wrap",
+    "category": "breakfast",
+    "mealType": "Wrap",
+    "dietTypes": [
+      "non_vegetarian"
+    ],
+    "ingredients": [
+      "Whole Wheat Tortilla",
+      "Grilled Chicken Breast",
+      "Egg Whites",
+      "Baby Spinach",
+      "Salsa"
+    ],
+    "calories": 520,
+    "protein": 44,
+    "carbs": 45,
+    "fat": 14,
+    "fiber": 5,
+    "allergens": [
+      "Gluten",
+      "Eggs"
+    ],
+    "tags": [
+      "High Protein",
+      "Athlete Breakfast",
+      "Grab & Go"
+    ],
+    "prepTime": "12 mins",
+    "description": "Whole wheat flatbread rolled with lean grilled chicken strips, fluffy scrambled egg whites, baby spinach, and roasted fire tomato salsa."
+  },
+  {
+    "id": "b-10",
+    "name": "Peanut Butter & Banana Protein Oatmeal Bowl",
+    "category": "breakfast",
+    "mealType": "Oatmeal Porridge",
+    "dietTypes": [
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Rolled Oats",
+      "Natural Peanut Butter",
+      "Banana",
+      "Vanilla Whey",
+      "Almond Milk"
+    ],
+    "calories": 580,
+    "protein": 38,
+    "carbs": 68,
+    "fat": 18,
+    "fiber": 9,
+    "allergens": [
+      "Peanuts",
+      "Dairy",
+      "Tree Nuts",
+      "Gluten"
+    ],
+    "tags": [
+      "High Calorie",
+      "Mass Gain",
+      "Energy Dense"
+    ],
+    "prepTime": "8 mins",
+    "description": "Creamy rolled oats folded with roasted creamy peanut butter, fresh sliced banana, and whey protein."
+  },
+  {
+    "id": "b-11",
+    "name": "Keto Avocado & Smoked Bacon Egg Skillet",
+    "category": "breakfast",
+    "mealType": "Skillet",
+    "dietTypes": [
+      "non_vegetarian",
+      "keto"
+    ],
+    "ingredients": [
+      "Whole Eggs",
+      "Smoked Turkey Bacon",
+      "Avocado",
+      "Cheddar Cheese",
+      "Scallions"
+    ],
+    "calories": 540,
+    "protein": 36,
+    "carbs": 8,
+    "fat": 40,
+    "fiber": 5,
+    "allergens": [
+      "Dairy",
+      "Eggs"
+    ],
+    "tags": [
+      "Very Low Carb",
+      "Keto Certified",
+      "Satiating"
+    ],
+    "prepTime": "14 mins",
+    "description": "Cast-iron seared pasture eggs and turkey bacon topped with melted aged cheddar and fresh sliced avocado."
+  },
+  {
+    "id": "l-01",
+    "name": "Tandoori Paneer Power Bowl with Tri-Color Quinoa",
+    "category": "lunch",
+    "mealType": "Grain Bowl",
+    "dietTypes": [
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Cottage Cheese Paneer",
+      "Quinoa",
+      "Roasted Sweet Potato",
+      "Steamed Broccoli",
+      "Mint Yogurt"
+    ],
+    "calories": 710,
+    "protein": 42,
+    "carbs": 76,
+    "fat": 23,
+    "fiber": 10,
+    "allergens": [
+      "Dairy"
+    ],
+    "tags": [
+      "Muscle Fuel",
+      "Complex Carbs",
+      "Clean Indian"
+    ],
+    "prepTime": "18 mins",
+    "description": "Spiced tandoori roasted paneer over a base of fluffy tri-color quinoa, maple roasted sweet potato gems, and steamed broccoli florets."
+  },
+  {
+    "id": "l-02",
+    "name": "Grilled Herb Chicken Breast & Roasted Farro Salad",
+    "category": "lunch",
+    "mealType": "Grain Bowl",
+    "dietTypes": [
+      "non_vegetarian",
+      "mediterranean"
+    ],
+    "ingredients": [
+      "Chicken Breast",
+      "Farro Grain",
+      "Kalamata Olives",
+      "Cucumber",
+      "Lemon Tahini"
+    ],
+    "calories": 680,
+    "protein": 48,
+    "carbs": 62,
+    "fat": 22,
+    "fiber": 9,
+    "allergens": [
+      "Gluten",
+      "Sesame"
+    ],
+    "tags": [
+      "Lean Muscle",
+      "Mediterranean",
+      "High Fiber"
+    ],
+    "prepTime": "15 mins",
+    "description": "Marinated rosemary chicken breast served with earthy cooked farro, diced English cucumbers, kalamata olives, and lemon tahini dressing."
+  },
+  {
+    "id": "l-03",
+    "name": "Crispy Organic Tofu Buddha Bowl with Sesame Lime",
+    "category": "lunch",
+    "mealType": "Grain Bowl",
+    "dietTypes": [
+      "vegan",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Baked Tofu",
+      "Edamame",
+      "Roasted Chickpeas",
+      "Purple Cabbage",
+      "Sesame Tahini",
+      "Brown Rice"
+    ],
+    "calories": 660,
+    "protein": 38,
+    "carbs": 72,
+    "fat": 22,
+    "fiber": 12,
+    "allergens": [
+      "Soy",
+      "Sesame"
+    ],
+    "tags": [
+      "100% Plant Based",
+      "Gluten Free",
+      "High Fiber"
+    ],
+    "prepTime": "16 mins",
+    "description": "Air-crisped organic tofu cubes, shelled edamame pods, crunchy spiced chickpeas, and purple slaw over brown rice with sesame lime sauce."
+  },
+  {
+    "id": "l-04",
+    "name": "Mediterranean Beluga Lentil Salad with Sheep Feta",
+    "category": "lunch",
+    "mealType": "Salad",
+    "dietTypes": [
+      "vegetarian",
+      "mediterranean"
+    ],
+    "ingredients": [
+      "Beluga Lentils",
+      "English Cucumber",
+      "Cherry Tomatoes",
+      "Sheep Feta",
+      "Extra Virgin Olive Oil"
+    ],
+    "calories": 640,
+    "protein": 36,
+    "carbs": 74,
+    "fat": 21,
+    "fiber": 14,
+    "allergens": [
+      "Dairy"
+    ],
+    "tags": [
+      "Heart Healthy",
+      "Low GI",
+      "Gluten Free"
+    ],
+    "prepTime": "12 mins",
+    "description": "Tender black beluga lentils tossed with crisp cucumbers, sweet sun-ripened cherry tomatoes, authentic Greek sheep feta, and cold-pressed olive oil."
+  },
+  {
+    "id": "l-05",
+    "name": "Wild Atlantic Salmon Quinoa Bowl with Asparagus",
+    "category": "lunch",
+    "mealType": "Grain Bowl",
+    "dietTypes": [
+      "non_vegetarian",
+      "mediterranean",
+      "keto"
+    ],
+    "ingredients": [
+      "Atlantic Salmon Fillet",
+      "Quinoa",
+      "Grilled Asparagus",
+      "Avocado",
+      "Dill Dressing"
+    ],
+    "calories": 720,
+    "protein": 45,
+    "carbs": 52,
+    "fat": 28,
+    "fiber": 8,
+    "allergens": [
+      "Fish"
+    ],
+    "tags": [
+      "Omega-3 Rich",
+      "Cardio Protective",
+      "High Protein"
+    ],
+    "prepTime": "18 mins",
+    "description": "Pan-seared Atlantic salmon fillet with tender grilled asparagus spears and buttery ripe avocado over organic white quinoa."
+  },
+  {
+    "id": "l-06",
+    "name": "Tempeh Teriyaki Stir-Fry with Brown Rice Noodles",
+    "category": "lunch",
+    "mealType": "Noodles & Wok",
+    "dietTypes": [
+      "vegan",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Organic Tempeh",
+      "Broccoli Florets",
+      "Shiitake Mushrooms",
+      "Brown Rice Noodles",
+      "Low-Sodium Teriyaki"
+    ],
+    "calories": 690,
+    "protein": 40,
+    "carbs": 82,
+    "fat": 19,
+    "fiber": 11,
+    "allergens": [
+      "Soy"
+    ],
+    "tags": [
+      "Gut Friendly",
+      "Fermented Protein",
+      "Clean Carbs"
+    ],
+    "prepTime": "16 mins",
+    "description": "Fermented organic tempeh wok-tossed with shiitake mushrooms, crisp broccoli, and flat brown rice noodles in a rich ginger teriyaki sauce."
+  },
+  {
+    "id": "l-07",
+    "name": "Paneer Tikka Brown Rice Bowl with Mint Gravy",
+    "category": "lunch",
+    "mealType": "Curry Bowl",
+    "dietTypes": [
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Cottage Cheese Paneer",
+      "Brown Basmati Rice",
+      "Bell Peppers",
+      "Onions",
+      "Spiced Tomato Sauce"
+    ],
+    "calories": 720,
+    "protein": 41,
+    "carbs": 76,
+    "fat": 24,
+    "fiber": 7,
+    "allergens": [
+      "Dairy"
+    ],
+    "tags": [
+      "Indian Classic",
+      "High Protein",
+      "Rich Flavor"
+    ],
+    "prepTime": "20 mins",
+    "description": "Charred paneer cubes and grilled bell peppers served over aromatic brown basmati rice with a spiced fenugreek tomato gravy."
+  },
+  {
+    "id": "l-08",
+    "name": "Spiced Chickpea & Avocado Wrap with Tahini",
+    "category": "lunch",
+    "mealType": "Wrap",
+    "dietTypes": [
+      "vegan",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Whole Grain Wrap",
+      "Chickpeas",
+      "Avocado",
+      "Pickled Onions",
+      "Sesame Tahini",
+      "Spinach"
+    ],
+    "calories": 610,
+    "protein": 26,
+    "carbs": 78,
+    "fat": 22,
+    "fiber": 14,
+    "allergens": [
+      "Gluten",
+      "Sesame"
+    ],
+    "tags": [
+      "High Fiber",
+      "Portable",
+      "Plant Powered"
+    ],
+    "prepTime": "10 mins",
+    "description": "Crispy cumin chickpeas and smashed creamy avocado rolled inside a whole wheat tortilla with pickled red onions and sesame tahini."
+  },
+  {
+    "id": "l-09",
+    "name": "Sesame Crusted Seared Tuna Bowl with Edamame",
+    "category": "lunch",
+    "mealType": "Poke Bowl",
+    "dietTypes": [
+      "non_vegetarian",
+      "mediterranean"
+    ],
+    "ingredients": [
+      "Yellowfin Tuna",
+      "Edamame",
+      "Sushi Brown Rice",
+      "Cucumber",
+      "Toasted Sesame Oil"
+    ],
+    "calories": 670,
+    "protein": 50,
+    "carbs": 64,
+    "fat": 18,
+    "fiber": 7,
+    "allergens": [
+      "Fish",
+      "Soy",
+      "Sesame"
+    ],
+    "tags": [
+      "Ultra High Protein",
+      "Lean Athlete",
+      "Low Fat"
+    ],
+    "prepTime": "14 mins",
+    "description": "Sushi-grade yellowfin tuna seared with sesame crust, accompanied by warm brown rice, steamed edamame, and cucumber ribbon salad."
+  },
+  {
+    "id": "l-10",
+    "name": "Cottage Cheese & Spinach Stuffed Bell Peppers",
+    "category": "lunch",
+    "mealType": "Stuffed Peppers",
+    "dietTypes": [
+      "vegetarian",
+      "keto"
+    ],
+    "ingredients": [
+      "Red Bell Peppers",
+      "Cottage Cheese Paneer",
+      "Baby Spinach",
+      "Mozzarella",
+      "Garam Masala"
+    ],
+    "calories": 590,
+    "protein": 38,
+    "carbs": 26,
+    "fat": 26,
+    "fiber": 6,
+    "allergens": [
+      "Dairy"
+    ],
+    "tags": [
+      "Low Carb",
+      "Keto Friendly",
+      "Comfort Food"
+    ],
+    "prepTime": "22 mins",
+    "description": "Oven-roasted whole red bell peppers filled with seasoned crumbled paneer, garlic wilted spinach, and melted light mozzarella."
+  },
+  {
+    "id": "l-11",
+    "name": "Thai Green Curry Chicken with Cauliflower & Jasmine Rice",
+    "category": "lunch",
+    "mealType": "Curry Bowl",
+    "dietTypes": [
+      "non_vegetarian"
+    ],
+    "ingredients": [
+      "Chicken Breast",
+      "Coconut Milk",
+      "Thai Green Paste",
+      "Bamboo Shoots",
+      "Jasmine Rice"
+    ],
+    "calories": 710,
+    "protein": 44,
+    "carbs": 68,
+    "fat": 25,
+    "fiber": 5,
+    "allergens": [],
+    "tags": [
+      "Rich Spice",
+      "Nut Free",
+      "Gluten Free"
+    ],
+    "prepTime": "20 mins",
+    "description": "Tender chicken breast simmered in fragrant lemongrass coconut green curry with bamboo shoots and steamed jasmine rice."
+  },
+  {
+    "id": "d-01",
+    "name": "Lentil & Spinach Protein Stew with Brown Basmati Rice",
+    "category": "dinner",
+    "mealType": "Stew & Rice",
+    "dietTypes": [
+      "vegan",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Yellow Moong Dal",
+      "Baby Spinach",
+      "Brown Basmati Rice",
+      "Ghee / Olive Oil",
+      "Cumin & Garlic"
+    ],
+    "calories": 780,
+    "protein": 34,
+    "carbs": 118,
+    "fat": 18,
+    "fiber": 15,
+    "allergens": [],
+    "tags": [
+      "Digestive Recovery",
+      "Gluten Free",
+      "Nut Free"
+    ],
+    "prepTime": "20 mins",
+    "description": "Slow-simmered yellow lentils enriched with fresh baby spinach, tempered cumin, and garlic, served with nutty brown basmati rice."
+  },
+  {
+    "id": "d-02",
+    "name": "High-Protein Red Lentil Penne with Cremini Garlic Alfredo",
+    "category": "dinner",
+    "mealType": "Pasta",
+    "dietTypes": [
+      "vegan",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Red Lentil Penne",
+      "Cremini Mushrooms",
+      "Cashew Cream Sauce",
+      "Baby Spinach",
+      "Nutritional Yeast"
+    ],
+    "calories": 820,
+    "protein": 38,
+    "carbs": 104,
+    "fat": 22,
+    "fiber": 13,
+    "allergens": [
+      "Tree Nuts"
+    ],
+    "tags": [
+      "Comfort Food",
+      "Gluten Free",
+      "Post Training"
+    ],
+    "prepTime": "18 mins",
+    "description": "Red lentil penne pasta tossed in a silky garlic cashew cream with sautéed earthy cremini mushrooms and sweet baby spinach."
+  },
+  {
+    "id": "d-03",
+    "name": "Grilled Grass-Fed Beef Steak with Sweet Potato & Green Beans",
+    "category": "dinner",
+    "mealType": "Steak Dinner",
+    "dietTypes": [
+      "non_vegetarian"
+    ],
+    "ingredients": [
+      "Lean Sirloin Steak",
+      "Roasted Sweet Potato",
+      "French Green Beans",
+      "Compound Herb Butter"
+    ],
+    "calories": 830,
+    "protein": 52,
+    "carbs": 76,
+    "fat": 26,
+    "fiber": 8,
+    "allergens": [
+      "Dairy"
+    ],
+    "tags": [
+      "Iron Rich",
+      "Hypertrophy Power",
+      "Athlete Fuel"
+    ],
+    "prepTime": "22 mins",
+    "description": "Seared grass-fed sirloin cooked medium, paired with crispy roasted sweet potato wedges and haricots verts green beans."
+  },
+  {
+    "id": "d-04",
+    "name": "Cottage Cheese & Grilled Vegetable Mediterranean Wrap",
+    "category": "dinner",
+    "mealType": "Wrap",
+    "dietTypes": [
+      "vegetarian",
+      "mediterranean"
+    ],
+    "ingredients": [
+      "Whole Wheat Flatbread",
+      "Paneer Cottage Cheese",
+      "Zucchini",
+      "Roasted Bell Peppers",
+      "Olive Tapenade"
+    ],
+    "calories": 760,
+    "protein": 36,
+    "carbs": 92,
+    "fat": 24,
+    "fiber": 10,
+    "allergens": [
+      "Dairy",
+      "Gluten"
+    ],
+    "tags": [
+      "Night Recovery",
+      "Clean Fats",
+      "Fiber Dense"
+    ],
+    "prepTime": "15 mins",
+    "description": "Charbroiled whole wheat flatbread loaded with seasoned cottage cheese paneer cubes, grilled zucchini strips, and kalamata olive tapenade."
+  },
+  {
+    "id": "d-05",
+    "name": "Rajma & Steamed Basmati Rice Muscle Recovery Bowl",
+    "category": "dinner",
+    "mealType": "Beans & Rice",
+    "dietTypes": [
+      "vegan",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Red Kidney Beans (Rajma)",
+      "Basmati Rice",
+      "Ginger Garlic Sauce",
+      "Fresh Cilantro",
+      "Cumin"
+    ],
+    "calories": 790,
+    "protein": 33,
+    "carbs": 122,
+    "fat": 16,
+    "fiber": 16,
+    "allergens": [],
+    "tags": [
+      "Complete Protein",
+      "Nut Free",
+      "Gluten Free"
+    ],
+    "prepTime": "20 mins",
+    "description": "Hearty kidney beans slow-cooked in a caramelized tomato and ginger gravy, served with fluffy fragrant basmati rice."
+  },
+  {
+    "id": "d-06",
+    "name": "Baked Lemon Rosemary Cod with Quinoa & Asparagus",
+    "category": "dinner",
+    "mealType": "Fish & Grain",
+    "dietTypes": [
+      "non_vegetarian",
+      "mediterranean"
+    ],
+    "ingredients": [
+      "Pacific Wild Cod",
+      "Quinoa",
+      "Steamed Asparagus",
+      "Lemon Zest",
+      "Extra Virgin Olive Oil"
+    ],
+    "calories": 680,
+    "protein": 48,
+    "carbs": 62,
+    "fat": 18,
+    "fiber": 7,
+    "allergens": [
+      "Fish"
+    ],
+    "tags": [
+      "Lean Protein",
+      "Heart Healthy",
+      "Low Fat"
+    ],
+    "prepTime": "20 mins",
+    "description": "Delicate oven-baked Pacific cod fillet topped with rosemary, garlic, and lemon, paired with fluffy quinoa and asparagus spears."
+  },
+  {
+    "id": "d-07",
+    "name": "Paneer & Spinach Kofta Curry with Multigrain Roti",
+    "category": "dinner",
+    "mealType": "Curry & Flatbread",
+    "dietTypes": [
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Baked Paneer Spinach Dumplings",
+      "Cashew Tomato Gravy",
+      "Multigrain Roti",
+      "Coriander"
+    ],
+    "calories": 820,
+    "protein": 36,
+    "carbs": 98,
+    "fat": 26,
+    "fiber": 11,
+    "allergens": [
+      "Dairy",
+      "Tree Nuts",
+      "Gluten"
+    ],
+    "tags": [
+      "Traditional Feast",
+      "High Protein",
+      "Rich Flavor"
+    ],
+    "prepTime": "25 mins",
+    "description": "Baked dumplings of paneer and finely shredded spinach nestled in a velvety cashew tomato gravy, served with two hot multigrain rotis."
+  },
+  {
+    "id": "d-08",
+    "name": "Roasted Veggie & Black Bean Enchilada Bake",
+    "category": "dinner",
+    "mealType": "Casserole",
+    "dietTypes": [
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Black Beans",
+      "Corn Tortillas",
+      "Zucchini",
+      "Enchilada Sauce",
+      "Jack Cheese",
+      "Cilantro"
+    ],
+    "calories": 780,
+    "protein": 35,
+    "carbs": 105,
+    "fat": 22,
+    "fiber": 15,
+    "allergens": [
+      "Dairy"
+    ],
+    "tags": [
+      "High Fiber",
+      "Gluten Free",
+      "Comfort Meal"
+    ],
+    "prepTime": "25 mins",
+    "description": "Layered corn tortillas with spiced black beans, roasted corn, zucchini, mild ancho enchilada sauce, and melted Monterey jack cheese."
+  },
+  {
+    "id": "d-09",
+    "name": "Garlic Butter Shrimp with Zucchini Noodles & Brown Rice",
+    "category": "dinner",
+    "mealType": "Seafood Bowl",
+    "dietTypes": [
+      "non_vegetarian",
+      "mediterranean"
+    ],
+    "ingredients": [
+      "Tiger Prawns",
+      "Zucchini Noodles",
+      "Brown Rice",
+      "Garlic Butter",
+      "Cherry Tomatoes"
+    ],
+    "calories": 710,
+    "protein": 46,
+    "carbs": 68,
+    "fat": 20,
+    "fiber": 6,
+    "allergens": [
+      "Shellfish",
+      "Dairy"
+    ],
+    "tags": [
+      "Seafood Protein",
+      "Gluten Free",
+      "Quick Prep"
+    ],
+    "prepTime": "15 mins",
+    "description": "Plump sautéed tiger prawns in a light garlic herb reduction tossed with tender zucchini ribbons and steamed nutty brown rice."
+  },
+  {
+    "id": "d-10",
+    "name": "Spiced Lentil Shepherd's Pie with Sweet Potato Mash",
+    "category": "dinner",
+    "mealType": "Pot Pie",
+    "dietTypes": [
+      "vegan",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "French Green Lentils",
+      "Carrots & Peas",
+      "Sweet Potato Mash",
+      "Herbes de Provence",
+      "Olive Oil"
+    ],
+    "calories": 760,
+    "protein": 34,
+    "carbs": 114,
+    "fat": 16,
+    "fiber": 16,
+    "allergens": [],
+    "tags": [
+      "100% Plant Based",
+      "Nut Free",
+      "Gluten Free"
+    ],
+    "prepTime": "30 mins",
+    "description": "Savory rich green lentil and root vegetable stew baked under a golden crust of whipped roasted sweet potato mash."
+  },
+  {
+    "id": "d-11",
+    "name": "Keto Grilled Chicken Alfredo over Spaghetti Squash",
+    "category": "dinner",
+    "mealType": "Low Carb Pasta",
+    "dietTypes": [
+      "non_vegetarian",
+      "keto"
+    ],
+    "ingredients": [
+      "Chicken Breast",
+      "Spaghetti Squash",
+      "Heavy Cream",
+      "Parmesan",
+      "Garlic",
+      "Spinach"
+    ],
+    "calories": 690,
+    "protein": 48,
+    "carbs": 16,
+    "fat": 38,
+    "fiber": 4,
+    "allergens": [
+      "Dairy"
+    ],
+    "tags": [
+      "Keto Certified",
+      "Low Carb",
+      "High Fat"
+    ],
+    "prepTime": "22 mins",
+    "description": "Tender seasoned chicken breast over roasted spaghetti squash ribbons, smothered in a homemade garlic parmesan cream sauce."
+  },
+  {
+    "id": "s-01",
+    "name": "Greek Yogurt & Almond Protein Recovery Parfait",
+    "category": "snack",
+    "mealType": "Parfait",
+    "dietTypes": [
+      "vegetarian",
+      "mediterranean"
+    ],
+    "ingredients": [
+      "Greek Yogurt",
+      "Raw Honey",
+      "Sliced Almonds",
+      "Organic Blueberries"
+    ],
+    "calories": 380,
+    "protein": 26,
+    "carbs": 42,
+    "fat": 10,
+    "fiber": 4,
+    "allergens": [
+      "Dairy",
+      "Tree Nuts"
+    ],
+    "tags": [
+      "Quick Recovery",
+      "Probiotic",
+      "Grab & Go"
+    ],
+    "prepTime": "5 mins",
+    "description": "0% fat Greek yogurt topped with crunchy sliced California almonds, raw honey, and sweet organic blueberries."
+  },
+  {
+    "id": "s-02",
+    "name": "Roasted Salted Edamame & Pumpkin Seed Pods",
+    "category": "snack",
+    "mealType": "Pods & Seeds",
+    "dietTypes": [
+      "vegan",
+      "vegetarian",
+      "keto",
+      "mediterranean"
+    ],
+    "ingredients": [
+      "Organic Edamame",
+      "Pumpkin Seeds",
+      "Himalayan Pink Salt",
+      "Sesame Oil"
+    ],
+    "calories": 340,
+    "protein": 24,
+    "carbs": 22,
+    "fat": 14,
+    "fiber": 8,
+    "allergens": [
+      "Soy",
+      "Sesame"
+    ],
+    "tags": [
+      "Gluten Free",
+      "Nut Free",
+      "Clean Protein"
+    ],
+    "prepTime": "5 mins",
+    "description": "Steamed organic edamame pods tossed with toasted crunchy pumpkin seeds, sea salt, and a drop of toasted sesame oil."
+  },
+  {
+    "id": "s-03",
+    "name": "Dark Chocolate Whey Isolate Shake & Pumpkin Seeds",
+    "category": "snack",
+    "mealType": "Shake",
+    "dietTypes": [
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Whey Protein Isolate",
+      "Unsweetened Almond Milk",
+      "Raw Cocoa",
+      "Pumpkin Seeds"
+    ],
+    "calories": 360,
+    "protein": 32,
+    "carbs": 24,
+    "fat": 12,
+    "fiber": 5,
+    "allergens": [
+      "Dairy",
+      "Tree Nuts"
+    ],
+    "tags": [
+      "Post Workout",
+      "Muscle Recovery",
+      "Fast Digesting"
+    ],
+    "prepTime": "3 mins",
+    "description": "Chilled Dutch cocoa whey isolate shake paired with roasted salted raw pumpkin seeds for zinc and magnesium replenishment."
+  },
+  {
+    "id": "s-04",
+    "name": "Roasted Fox Nuts (Makhana) & Roasted Chickpeas",
+    "category": "snack",
+    "mealType": "Roasted Crunch",
+    "dietTypes": [
+      "vegan",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Fox Nuts (Makhana)",
+      "Roasted Chickpeas",
+      "Olive Oil",
+      "Black Pepper",
+      "Rock Salt"
+    ],
+    "calories": 320,
+    "protein": 18,
+    "carbs": 44,
+    "fat": 7,
+    "fiber": 9,
+    "allergens": [],
+    "tags": [
+      "Light Snack",
+      "Nut Free",
+      "Gluten Free"
+    ],
+    "prepTime": "5 mins",
+    "description": "Crunchy lotus seeds (makhana) and chickpeas roasted in extra virgin olive oil with cracked tellicherry black pepper and pink salt."
+  },
+  {
+    "id": "s-05",
+    "name": "Matcha Green Tea Plant Protein Smoothie",
+    "category": "snack",
+    "mealType": "Smoothie",
+    "dietTypes": [
+      "vegan",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Ceremonial Matcha",
+      "Vanilla Plant Protein",
+      "Banana",
+      "Chia Seeds",
+      "Oat Milk"
+    ],
+    "calories": 350,
+    "protein": 24,
+    "carbs": 45,
+    "fat": 8,
+    "fiber": 6,
+    "allergens": [],
+    "tags": [
+      "Antioxidant Rich",
+      "Nut Free",
+      "Afternoon Boost"
+    ],
+    "prepTime": "5 mins",
+    "description": "Japanese ceremonial grade matcha blended with silky vanilla plant protein, half a frozen banana, and chia seeds."
+  },
+  {
+    "id": "s-06",
+    "name": "Low-Fat Cottage Cheese with Sliced Peaches & Walnuts",
+    "category": "snack",
+    "mealType": "Cheese Bowl",
+    "dietTypes": [
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Cottage Cheese",
+      "Fresh Sliced Peaches",
+      "Walnuts",
+      "Mint"
+    ],
+    "calories": 340,
+    "protein": 28,
+    "carbs": 32,
+    "fat": 9,
+    "fiber": 4,
+    "allergens": [
+      "Dairy",
+      "Tree Nuts"
+    ],
+    "tags": [
+      "Casein Rich",
+      "Night Snack",
+      "Slow Digesting"
+    ],
+    "prepTime": "5 mins",
+    "description": "Whipped fresh low-fat cottage cheese paired with juicy sweet sliced peaches and chopped English walnut pieces."
+  },
+  {
+    "id": "s-07",
+    "name": "Peanut Butter Protein Energy Balls (2 pcs)",
+    "category": "snack",
+    "mealType": "Energy Balls",
+    "dietTypes": [
+      "vegetarian"
+    ],
+    "ingredients": [
+      "Peanut Butter",
+      "Rolled Oats",
+      "Honey",
+      "Whey Isolate",
+      "Dark Chocolate Chips"
+    ],
+    "calories": 380,
+    "protein": 22,
+    "carbs": 40,
+    "fat": 16,
+    "fiber": 5,
+    "allergens": [
+      "Peanuts",
+      "Dairy",
+      "Gluten"
+    ],
+    "tags": [
+      "High Energy",
+      "Sweet Treat",
+      "Pre-Workout"
+    ],
+    "prepTime": "5 mins",
+    "description": "Bite-sized energy bites rolled with organic peanut butter, toasted oats, raw honey, and dark chocolate drops."
+  },
+  {
+    "id": "s-08",
+    "name": "Hummus & Crisp Vegetable Crudités with Pumpkin Seeds",
+    "category": "snack",
+    "mealType": "Dip & Veggies",
+    "dietTypes": [
+      "vegan",
+      "vegetarian",
+      "mediterranean"
+    ],
+    "ingredients": [
+      "Chickpea Hummus",
+      "Carrot Sticks",
+      "Cucumber Batons",
+      "Bell Peppers",
+      "Pumpkin Seeds"
+    ],
+    "calories": 310,
+    "protein": 16,
+    "carbs": 38,
+    "fat": 12,
+    "fiber": 8,
+    "allergens": [
+      "Sesame"
+    ],
+    "tags": [
+      "Nut Free",
+      "Gluten Free",
+      "Hydrating"
+    ],
+    "prepTime": "5 mins",
+    "description": "Creamy garlic lemon hummus served with rainbow bell peppers, crisp carrot sticks, cucumbers, and roasted seeds."
+  },
+  {
+    "id": "s-09",
+    "name": "Hard Boiled Pasture Eggs & Guacamole Dip",
+    "category": "snack",
+    "mealType": "Egg & Guac",
+    "dietTypes": [
+      "vegetarian",
+      "non_vegetarian",
+      "keto",
+      "mediterranean"
+    ],
+    "ingredients": [
+      "Pasture Eggs",
+      "Avocado Guacamole",
+      "Lime Juice",
+      "Sea Salt"
+    ],
+    "calories": 330,
+    "protein": 20,
+    "carbs": 8,
+    "fat": 22,
+    "fiber": 5,
+    "allergens": [
+      "Eggs"
+    ],
+    "tags": [
+      "Keto Snack",
+      "Zero Sugar",
+      "Gluten Free"
+    ],
+    "prepTime": "5 mins",
+    "description": "Two perfectly soft-boiled pasture-raised eggs served alongside freshly crushed lime guacamole and sea salt."
+  }
+]

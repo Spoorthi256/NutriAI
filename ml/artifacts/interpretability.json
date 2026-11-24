@@ -1,0 +1,28 @@
+{
+  "decision_tree_top_features": {
+    "calorie_ratio": 0.55409,
+    "protein_ratio": 0.31827,
+    "user_target_carbs": 0.09752,
+    "meal_protein": 0.00859,
+    "meal_carbs": 0.00814,
+    "protein_density": 0.00426,
+    "slot_target_protein": 0.00382,
+    "slot_target_calories": 0.00213,
+    "meal_fiber": 0.00124,
+    "user_age": 0.00104
+  },
+  "logistic_regression_top_coefficients": {
+    "protein_density": -3.06683,
+    "protein_ratio": 2.77287,
+    "calorie_ratio": -2.33353,
+    "user_gender_unspecified": -0.64585,
+    "user_goal_muscle_gain": 0.6314,
+    "slot_category_lunch": -0.61395,
+    "meal_protein": 0.58927,
+    "slot_category_snack": 0.56514,
+    "user_goal_weight_gain": -0.53258,
+    "user_gender_male": 0.43162
+  },
+  "feature_count": 36,
+  "disclaimer": "Feature importances reflect statistical associations in the prototype dataset. They do not prove clinical causality."
+}
